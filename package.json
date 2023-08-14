@@ -1,0 +1,29 @@
+{
+  "name": "printable",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/printable.js",
+  "scripts": {
+    "watch": "webpack --watch --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yazanqwaider/printable.git"
+  },
+  "keywords": [
+    "printable"
+  ],
+  "author": "Yazan Qwaider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yazanqwaider/printable/issues"
+  },
+  "homepage": "https://github.com/yazanqwaider/printable#readme",
+  "devDependencies": {
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.1.6",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}

@@ -1,0 +1,2 @@
+declare function printable(): void;
+
